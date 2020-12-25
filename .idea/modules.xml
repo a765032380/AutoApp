@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutoApp.iml" filepath="$PROJECT_DIR$/.idea/modules/AutoApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AutoApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AutoApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autojs/AutoApp.autojs.iml" filepath="$PROJECT_DIR$/.idea/modules/autojs/AutoApp.autojs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/automator/AutoApp.automator.iml" filepath="$PROJECT_DIR$/.idea/modules/automator/AutoApp.automator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/AutoApp.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/AutoApp.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inrt/AutoApp.inrt.iml" filepath="$PROJECT_DIR$/.idea/modules/inrt/AutoApp.inrt.iml" />
+    </modules>
+  </component>
+</project>

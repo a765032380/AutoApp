@@ -1,0 +1,34 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "9C40C42B-1",
+    "build_number": 1,
+    "build_time": 1598005652511,
+    "release": true
+  },
+  "encryptLevel": 1,
+  "useFeatures": [],
+  "icon": "res/icon.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": true,
+    "splashIcon": "res/splashIcon.png",
+    "splashText": "积木小家",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "积木小家",
+  "optimization": {
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "com.jmxj.ui",
+  "scripts": {},
+  "signingConfig": {
+    "alias": "jmxj",
+    "keystore": "/storage/emulated/0/脚本/.keystore/jmxj.jks",
+    "uuid": "5aebb6c4-4b70-4434-944b-f7abfff06cee"
+  },
+  "versionCode": 48,
+  "versionName": "1.0.0.48"
+}
